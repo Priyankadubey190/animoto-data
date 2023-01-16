@@ -1,0 +1,25 @@
+{
+  "name": "animoto-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyankadubey190/animoto-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyankadubey190/animoto-data/issues"
+  },
+  "homepage": "https://github.com/Priyankadubey190/animoto-data#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "json-server": "^0.17.1"
+  }
+}
